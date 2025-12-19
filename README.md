@@ -1,37 +1,37 @@
 <div align="center">
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi,+I'm+a+Researcher+in+AI;Focusing+on+Reinforcement+Learning;Large+Language+Models+(LLMs);Building+EvoSwitch+System..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Graduate+Student+%2F+AI+Researcher;Exploring+RL,+LLMs,+%26+Representation+Learning;Bridging+Mathematics+%26+Computer+Science;Coding+in+Python+%26+C%2B%2B" alt="Typing SVG" />
   </a>
-
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,git,latex,vscode,linux&perline=8" />
-    </a>
-  </p>
 </div>
-
----
-
-### 📜 Featured Research (Targeting IJCAI 2026)
-
-> **Learning to Decide with Just Enough: Information-Theoretic Context Summarization for CDMPs** > [![arXiv](https://img.shields.io/badge/arXiv-2510.01620-b31b1b.svg?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.01620)
-> <img src="https://img.shields.io/badge/Status-Under_Review-dda0dd?style=flat-square&logo=c" />
->
-> *Developing a novel framework to compress context in RL using LLMs.*
-
----
-
-### ⚡ Activity Graph
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=5D3FD3&line=5D3FD3&point=FFFFFF&hide_border=true" width="100%">
+
+### 👨‍💻 About Me
+
+Hi there! I am a graduate student and researcher passionate about the intersection of **Artificial Intelligence** and **Advanced Mathematics**.
+
+My approach to AI is grounded in rigorous theoretical foundations. I enjoy applying concepts from **Functional Analysis** and **Numerical Analysis** to solve complex problems in deep learning and agentic systems.
+
+* 🔭 **Current Focus:** I'm currently researching **Reinforcement Learning (RL)** and **Large Language Models (LLMs)**, specifically interested in long-context intent understanding and efficient representation.
+* 🧠 **Core Background:**
+    * **Mathematics:** Spectral Theory, Compact Operators, Von Neumann Stability Analysis.
+    * **Computer Science:** High-performance Networking (TCP/IP), System Architecture.
+* 🌱 **Goal:** Developing robust, theoretically sound AI systems that can adapt and evolve (like *EvoSwitch*).
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages" />
-</div>
+| **Languages** | **AI & Research** | **Tools & Environment** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![RL](https://img.shields.io/badge/-Reinforcement_Learning-blueviolet?style=flat-square) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:你的邮箱地址">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  </p>
