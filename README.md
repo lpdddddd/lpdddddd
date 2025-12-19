@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Pd+Liu;Welcome+to+my+homepage" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Hi,+I'm+Pd+Liu;Sichuan+University+Undergraduate;Math+%26+Intelligent+Tech+Double+Degree" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,11 +8,11 @@
 
 ### 👨‍💻 Background
 
-I am a researcher and student with a strong interdisciplinary background in **Mathematics** and **Computer Science**. My work is driven by a desire to build theoretically sound and efficient AI systems.
+I am an undergraduate student at **Sichuan University (SCU)**, pursuing a **Double Degree in Mathematics and Intelligent Technology**. My research bridges the gap between theoretical mathematics and modern AI systems.
 
-* **Mathematical Foundation:** My research is grounded in Functional Analysis (Spectral Theory, Compact Operators) and Numerical Analysis (Von Neumann Stability).
-* **Engineering Capability:** I have experience in high-performance networking (TCP/IP) and system architecture, ensuring my algorithms are not just theoretical but scalable.
-* **Coding:** Python, C++.
+* **Mathematical Foundation:** My work is grounded in rigorous mathematics, including **Functional Analysis** (Spectral Theory, Compact Operators) and **Numerical Analysis**.
+* **Research Focus:** I apply these mathematical principles to **Reinforcement Learning** and **LLMs**, ensuring algorithms are theoretically sound and efficient.
+* **Engineering:** Experienced in C++ and Python, with system-level knowledge in networking (TCP/IP).
 
 ---
 
