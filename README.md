@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Hi,+I'm+Pd+Liu;Sichuan+University+Undergraduate;Math+%26+Intelligent+Tech+Double+Degree" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Hi,+I'm+Pd+Liu;Sichuan+University+Undergraduate;Math+%26+Intelligent+Tech+Double+Degree;Focusing+on+NLP+Research" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,21 +8,18 @@
 
 ### 👨‍💻 Background
 
-I am an undergraduate student at **Sichuan University (SCU)**, pursuing a **Double Degree in Mathematics and Intelligent Technology**. My research bridges the gap between theoretical mathematics and modern AI systems.
+I am an undergraduate student at **Sichuan University**, pursuing a double degree in **Mathematics and Intelligent Technology**.
 
-* **Mathematical Foundation:** My work is grounded in rigorous mathematics, including **Functional Analysis** (Spectral Theory, Compact Operators) and **Numerical Analysis**.
-* **Research Focus:** I apply these mathematical principles to **Reinforcement Learning** and **LLMs**, ensuring algorithms are theoretically sound and efficient.
-* **Engineering:** Experienced in C++ and Python, with system-level knowledge in networking (TCP/IP).
+* **Core Competency:** I possess a solid mathematical foundation, which supports my theoretical research in AI.
+* **Research Focus:** Currently, I am fully focused on **Natural Language Processing (NLP)**, exploring the capabilities of Large Language Models.
 
 ---
 
 ### 🔭 Research Interests
 
-My primary research focuses on **Artificial Intelligence**, with specific interests in:
-
-* **Reinforcement Learning (RL):** Contextual MDPs, Efficient Exploration.
-* **Large Language Models (LLMs):** Long-context understanding, Intent recognition.
-* **Representation Learning:** Information-theoretic approaches to state abstraction.
+* **Natural Language Processing (NLP)**
+* **Large Language Models (LLMs)**
+* **Reinforcement Learning (RL)**
 
 ---
 
